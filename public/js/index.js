@@ -1,1 +1,0 @@
-alert   ('local js file');
